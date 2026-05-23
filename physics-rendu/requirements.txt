@@ -1,0 +1,15 @@
+# 打通物理任督二脉 / Physics Rendu
+# 配套 Python 模块依赖
+
+# 核心（必需）
+numpy>=1.20
+scipy>=1.7
+
+# 可选 —— 部分模块绘图（demo 默认只打印数值）
+matplotlib>=3.5
+
+# 可选 —— 量子模块如果用 sparse 求解
+# scipy.sparse 已包含在 scipy 中
+
+# Python 版本要求
+# python_requires>=3.10
