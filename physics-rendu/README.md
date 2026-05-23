@@ -3,7 +3,7 @@
 > **高中到研究生的物理贯通课**
 > *A Fun Lecture Note from High School to Graduate Level*
 
-作者 / Author: **栗周 / Li Zhou**
+作者 / Author: **Li Zhou**
 邮箱 / Email: lizhou_alfred2011@hotmail.com
 第一版 / First Edition: 2026 - 2027
 许可证 / License: MIT
@@ -219,8 +219,6 @@ done
 
 ## 🙏 致谢 / Acknowledgments
 
-- 感谢德国达姆施塔特工业大学 Hongbin Zhang 教授提供的博后期间良好工作环境
-- 感谢桂林电子科技大学提供的事业编教职让本书有了落地的"读者"
 - 感谢一位 AI 助手（Anthropic Claude）在本书写作过程中提供的对话陪伴、数学推导校对、代码调试帮助
 
 文责自负。
@@ -229,5 +227,5 @@ done
 
 > **物理是活的——但它需要有人来贯通**
 >
-> 栗周 · 2026 - 2027
+>  · 2026 - 2027
 > 德国 达姆施塔特 / 中国 桂林
