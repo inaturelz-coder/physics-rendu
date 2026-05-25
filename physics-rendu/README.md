@@ -51,7 +51,8 @@ physics-rendu/
 │   ├── qcomp.py           Ch17 量子计算
 │   ├── solid_state.py     Ch18 凝聚态入门
 │   ├── advanced_cm.py     Ch19 凝聚态前沿
-│   └── optics.py          Ch20 光学专题
+│   ├── optics.py          Ch20 光学专题
+│   └── ml_physics.py      Ch21 物理与 AI
 ├── chapters/              ← 各章独立 PDF
 │   ├── Ch1_Momentum.pdf
 │   ├── Ch2_Energy.pdf
@@ -154,11 +155,11 @@ done
 |---:|---|---|---|
 | 20 | 光学专题 | optics.py | 双缝 + 衍射 + 激光阈值 + SHG + 光纤色散 |
 
-### 第七部分：未来（2027 年初）
+### 第七部分：未来
 
 | 章 | 主题 |
 |---:|---|
-| 21 | 物理与 AI（待发布） |
+| 21 | 物理与 AI | ml_physics.py | Hopfield + SGD + Ising 涌现 + Boltzmann + ML 势函数 |
 
 ---
 
@@ -199,7 +200,7 @@ done
 - [x] Ch 1-20 主体内容（2026）
 - [x] 配套 Python 模块（2026）
 - [x] 第一版书 PDF（v1 含代码 + v2 公开版）
-- [ ] Ch 21 物理与 AI（2027 年初）
+- [x] Ch 21 物理与 AI（2027 年初完成）
 - [ ] 个人网站 / 配套博客
 - [ ] 第二版修订（根据读者反馈）
 
