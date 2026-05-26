@@ -3,7 +3,7 @@
 > **高中到研究生的物理贯通课**
 > *A Fun Lecture Note from High School to Graduate Level*
 
-作者 / Author: **栗周 / Li Zhou**
+作者 / Author:  Li Zhou
 邮箱 / Email: lizhou_alfred2011@hotmail.com
 第一版 / First Edition: 2026 - 2027
 许可证 / License: MIT
